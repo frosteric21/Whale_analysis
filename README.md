@@ -1,1 +1,1 @@
-# Whales_analysis
+# Whale_analysis
